@@ -2,8 +2,8 @@
 scrapers to use when i research tech-trends
 
 Repository contains ..
+----------------
 
-"""
 1. Kyobo_scraper_toCSV.ipynb
 target Web : http://www.kyobobook.co.kr
 
@@ -24,4 +24,3 @@ target Web : https://taling.me
 
 7. yes24_scraper.ipynb
 target Web : http://www.yes24.com/
-"""
