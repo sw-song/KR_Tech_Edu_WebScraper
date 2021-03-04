@@ -5,22 +5,22 @@ Repository contains ..
 ----------------
 
 1. Kyobo_scraper_toCSV.ipynb
-target Web : http://www.kyobobook.co.kr
+- target Web : http://www.kyobobook.co.kr
 
 2. inflearn_scraper_toCSV.ipynb
-target Web : https://www.inflearn.com
+- target Web : https://www.inflearn.com
 
 3. learningSpoons_scraper.ipynb
-target Web : https://learningspoons.com
+- target Web : https://learningspoons.com
 
 4. programmers_scraper.ipynb
-target Web : https://programmers.co.kr
+- target Web : https://programmers.co.kr
 
 5. saramin_scraper.ipynb
-target Web : https://www.saramin.co.kr/
+- target Web : https://www.saramin.co.kr/
 
 6. taling_scraper_toCSV.ipynb
-target Web : https://taling.me
+- target Web : https://taling.me
 
 7. yes24_scraper.ipynb
-target Web : http://www.yes24.com/
+- target Web : http://www.yes24.com/
