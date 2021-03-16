@@ -24,3 +24,9 @@ Repository contains ..
 
 7. yes24_scraper.ipynb
 - target Web : http://www.yes24.com/
+
+8. taling_vod.ipynb
+- target Web : https://taling.me/vod/list
+
+9. class101_.ipynb
+- target Web : https://class101.net
