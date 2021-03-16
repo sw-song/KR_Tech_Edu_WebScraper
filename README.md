@@ -1,5 +1,5 @@
-# Tech_Scraper
-scrapers to use when i research tech-trends
+# Web Scraper
+교보문고/인프런/러닝스푼즈/프로그래머스/사람인/탈잉/Yes24/탈잉VOD/클래스101
 
 Repository contains ..
 ----------------
